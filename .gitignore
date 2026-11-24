@@ -1,0 +1,26 @@
+# Vivado generated products
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.dcp
+*.bit
+*.ltx
+*.rpt
+*.vdi
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+xsim.dir/
+
+# Editors and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
